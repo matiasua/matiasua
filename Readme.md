@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/matiasua/matiasua/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/matiasua/matiasua/blob/main/images/header.gif" alt="header"/>
 </div>
 
 <h2 align="center"> 👨‍💻 Quién soy</h2>
