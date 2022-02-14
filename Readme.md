@@ -40,7 +40,9 @@
 <h2 align="center">💬 Mis Articulos</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://dev.to/matiasua"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://drive.google.com/file/d/1od_NAty0kviZ8P0ZbkulQD-XZ_ELMUSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resumen CV-PDF" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://drive.google.com/file/d/1od_NAty0kviZ8P0ZbkulQD-XZ_ELMUSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resumen%20CV-PDF-success" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://drive.google.com/file/d/1WP8Q6JLb_1kAkepudKSrZKrFYst8olOh/view?usp=sharing"><img src="https://img.shields.io/badge/Tesis%20de%20Grado-PDF-success"></a>&nbsp;&nbsp;&nbsp;
+
 </p>
 <h3 align="center"> 🛠 Website pronto disponible 🛠</h3>
 
