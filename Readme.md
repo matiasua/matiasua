@@ -6,7 +6,7 @@
 <h2 align="center"> 👨‍💻 Quién soy</h2>
 <p align="center">
 <samp>
-  Soy un profesional graduado de Ingeniería Civil Informática de la promoción 2016-2021 de la Universidad Autónoma de Chile, con sólidos conocimientos en análisis funcional de requerimientos, desarrollo de software, análisis de datos y conocimientos básicos en las nuevas tecnologías que el mercado demanda. Un profesional con gran capacidad de trabajo en equipos multidisciplinarios con experiencia en proyectos universitarios, prácticas profesionales y tesis de grado enfocadas a la solución de problemáticas de entornos de negocio reales. Actualmente me encuentro muy contento, motivado y comprometido con mi primera experiencia laboral como Jr DevOps Engineer en el departamento de educación online de la vicerrectoría de tecnologías de la información de la Universidad de Chile.
+  Soy un profesional graduado de Ingeniería Civil Informática de la promoción 2016-2021 de la Universidad Autónoma de Chile, con sólidos conocimientos en análisis funcional de requerimientos, desarrollo de software, análisis de datos y conocimientos básicos en las nuevas tecnologías que el mercado demanda. Un profesional con gran capacidad de trabajo en equipos multidisciplinarios con experiencia en proyectos universitarios, prácticas profesionales y tesis de grado enfocadas a la solución de problemáticas de entornos de negocio reales. Actualmente me encuentro muy contento, motivado y comprometido como DevOps Engineer en el departamento de educación online de la vicerrectoría de tecnologías de la información de la Universidad de Chile.
 </samp>
 <br> <br>
 </p>
