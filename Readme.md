@@ -42,9 +42,9 @@
 
 <h2 align="center">💬 Mis Articulos</h2>
 <p align="center" align='right'>
-  <a target="_blank"href="https://blog-m4s.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://resume.m4s.cl/pdf/MatiasCardenas_Resume.pdf"><img src="https://img.shields.io/badge/Resumen%20CV-PDF-success" /></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank"href="https://drive.google.com/file/d/1WP8Q6JLb_1kAkepudKSrZKrFYst8olOh/view?usp=sharing"><img src="https://img.shields.io/badge/Tesis%20de%20Grado-PDF-success"></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://blog-m4s.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%2312100E.svg?&style=for-the-badge&logo=hashnode&logoColor=blue" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://resume.m4s.cl/pdf/MatiasCardenas_Resume.pdf"><img src="https://img.shields.io/badge/Resumen%20CV-PDF-success" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://drive.google.com/file/d/1WP8Q6JLb_1kAkepudKSrZKrFYst8olOh/view?usp=sharing"><img src="https://img.shields.io/badge/Tesis%20de%20Grado-PDF-success"></a>&nbsp;&nbsp;&nbsp;
 
 <h2 align="center"> Sitio Web </h2>
 <p align="center"><a target="_blank"href="https://m4s.cl/"><img src="https://img.shields.io/badge/M4S.CL-000000?style=for-the-badge&logo=rss&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;</p>
