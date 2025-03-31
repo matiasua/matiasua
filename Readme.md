@@ -7,7 +7,7 @@
 <p align="center">
 <samp>
   Soy un profesional titulado en Ingeniería Civil Informática de la promoción 2016-2021 de la Universidad Autónoma de Chile. Cuento con sólidos conocimientos en análisis funcional de requerimientos, desarrollo de software, análisis de datos y competencias en las nuevas tecnologías demandadas por el mercado. Mi experiencia laboral incluye colaboración en equipos multidisciplinarios durante proyectos universitarios, prácticas profesionales y la elaboración de mi tesis de grado, todos orientados a abordar desafíos en entornos de negocio reales.
-  En la actualidad, me encuentro entusiasmado y comprometido como Ingeniero DevOps en el departamento de educación online de la vicerrectoría de tecnologías de la información de la Universidad de Chile.
+  En la actualidad, me encuentro entusiasmado y comprometido como Ingeniero DevOps en el departamento de tecnologias de la informacion del ministerio de salud - Minsal Chile.
 </samp>
 <br> <br>
 </p>
