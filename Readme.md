@@ -6,8 +6,15 @@
 <h2 align="center"> 👨‍💻 Quién soy</h2>
 <p align="center">
 <samp>
-  Soy un profesional titulado en Ingeniería Civil Informática de la promoción 2016-2021 de la Universidad Autónoma de Chile. Cuento con sólidos conocimientos en análisis funcional de requerimientos, desarrollo de software, análisis de datos y competencias en las nuevas tecnologías demandadas por el mercado. Mi experiencia laboral incluye colaboración en equipos multidisciplinarios durante proyectos universitarios, prácticas profesionales y la elaboración de mi tesis de grado, todos orientados a abordar desafíos en entornos de negocio reales.
-  En la actualidad, me encuentro entusiasmado y comprometido como Ingeniero DevOps en el departamento de tecnologias de la informacion del ministerio de salud - Minsal Chile.
+  Soy un profesional titulado en Ingeniería Civil Informática de la Universidad Autónoma de Chile, con formación en ciberseguridad y una trayectoria orientada al desarrollo, operación y modernización de plataformas tecnológicas. Poseo sólidos conocimientos en arquitectura cloud, infraestructura, automatización, análisis de datos y desarrollo de software, junto con experiencia aplicada en entornos de alta exigencia.
+
+Mi experiencia laboral incluye participación en equipos multidisciplinarios durante proyectos universitarios, prácticas profesionales y trabajos de investigación, donde abordé desafíos reales utilizando tecnologías actuales. Posteriormente me desenvolví como Ingeniero de Datos, Desarrollador de Software y Desarrollador Web para organizaciones públicas y privadas, fortaleciendo mis competencias técnicas y mi capacidad de entregar soluciones eficientes.
+
+Más adelante me desempeñé como Ingeniero DevOps en la Universidad de Chile y como Especialista DevOps en el Ministerio de Salud, donde participé en la operación, despliegue y evolución de plataformas críticas basadas en OpenShift, Kubernetes, AWS y servicios on-premise, aplicando prácticas de CI/CD, observabilidad y seguridad.
+
+Actualmente soy Ingeniero Cloud, Infraestructura y Seguridad en Ionix Latam, donde participo en el diseño, operación y mejora continua de soluciones cloud sobre AWS, gestión de clústeres Kubernetes, automatización de procesos, implementación de buenas prácticas de seguridad y soporte a plataformas de misión crítica.
+
+Mi enfoque combina la automatización, la seguridad, la eficiencia operativa y la mejora continua, siempre orientado a aportar valor en entornos tecnológicos dinámicos y de alta demanda.
 </samp>
 <br> <br>
 </p>
